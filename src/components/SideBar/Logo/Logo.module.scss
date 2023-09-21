@@ -1,0 +1,20 @@
+.logo {
+	display: flex;
+	box-sizing: content-box;
+	width: 52px;
+	height: 52px;
+	padding: 2px 0px;
+	div {
+		width: 52px;
+		height: 52px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		border-radius: 50%;
+		transition: 0.2s;
+		&:hover{
+			background-color: #eff3f41a;
+		}
+	}
+	
+}

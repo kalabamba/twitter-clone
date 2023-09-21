@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+button {
+	cursor: pointer;
+	background-color: transparent;
+	border: none;
+	outline: none;
+}
+a {
+	text-decoration: none;
+	color: #e7e9ea;
+}
+body {
+	background-color: #000000;
+	color: #e7e9ea;
+}
